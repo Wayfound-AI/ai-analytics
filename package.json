@@ -1,0 +1,19 @@
+{
+  "name": "ai-analytics",
+  "version": "0.0.0",
+  "description": "Level up your agents with Wayfound, the AI analytics platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wayfound-AI/ai-analytics.git"
+  },
+  "author": "Wayfound",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wayfound-AI/ai-analytics/issues"
+  },
+  "homepage": "https://github.com/Wayfound-AI/ai-analytics#readme"
+}
